@@ -14,8 +14,6 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 ### Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postman,mysql,gcp,py,html,css,js,nodejs,mongodb,angular,react,c,cpp)](https://skillicons.dev)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
 <!--
 **HarshitShirsat/HarshitShirsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
